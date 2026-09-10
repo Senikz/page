@@ -77,9 +77,14 @@ h3{
     padding: 50px;
 }
 
-.images{
-    display: flex;
-    gap: 16px;
-    margin-top: 24px;
-    border-radius: 8px;
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
 }
