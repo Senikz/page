@@ -81,4 +81,5 @@ h3{
     display: flex;
     gap: 16px;
     margin-top: 24px;
+    border-radius: 8px;
 }
