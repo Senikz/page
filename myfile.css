@@ -13,7 +13,7 @@ h1{
 body {
     background: linear-gradient(45deg, #1e3a8a, #4c1d95, #6d28d9, #2563eb, #1e3a8a);
     background-size: 1000% 1000%;
-    animation: gradientShift 12s ease infinite;
+    animation: gradientShift 8s ease infinite;
 }
 
 @keyframes gradientShift {
