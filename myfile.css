@@ -69,6 +69,13 @@ h2{
     padding: 50px;
 }
 
+p{
+    font-family: myfont;
+    font-size: 30px;
+    margin: 30px;
+    padding: 30px;
+}
+
 h3{
     font-family: myfont;
     font-size: 30px;
