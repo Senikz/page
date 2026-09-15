@@ -79,6 +79,9 @@ h3{
 
 .row {
     display: flex;
+}
+
+.row {
     border-radius: 25px;
 }
 
