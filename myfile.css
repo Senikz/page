@@ -81,10 +81,14 @@ h3{
     display: flex;
 }
 
-.column img {
+.column {
     flex: 33.33%;
     padding: 5px;
-    border-radius: 5px;
+}
+
+.column img {
+    width: 100%;
+    border-radius: 10px;
 }
 
 @media screen and (max-width: 500px) {
