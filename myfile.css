@@ -84,6 +84,7 @@ h3{
 .column {
     flex: 33.33%;
     padding: 10px;
+    margin: 5px;
 }
 
 .column img {
