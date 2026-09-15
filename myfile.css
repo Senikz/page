@@ -107,6 +107,6 @@ h3{
     }
 }
 
-body {
+* {
     cursor: url('kyogrecursor.ico'), default;
 }
