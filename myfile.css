@@ -156,3 +156,7 @@ h3{
 .img-container:hover .img-caption {
     opacity: 1;
 }
+
+.img-caption {
+    z-index: 2;
+}
