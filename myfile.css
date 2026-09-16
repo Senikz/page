@@ -149,7 +149,7 @@ h3{
     justify-content: center;
     color: beige;
     font-family: myfont;
-    font-size: 30px;
+    font-size: 25px;
     opacity: 0;
     transition: opacity 0.3s ease;
     pointer-events: none;
