@@ -164,7 +164,7 @@ h3{
     z-index: 2;
 }
 
-#frame {
+h1 {
     animation: fadeIn 1s ease-in;
 }
 
