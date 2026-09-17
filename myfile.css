@@ -163,18 +163,3 @@ h3{
 .img-caption {
     z-index: 2;
 }
-
-h1 {
-    animation: fadeIn 1s ease-in;
-}
-
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
